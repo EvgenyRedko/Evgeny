@@ -1,9 +1,10 @@
-name = 'Home_Work 12'
-print(name)
-name1 = 'hours 1.5'
-print(name1)
-name2 = 'Python'
-print(name2)
-name3 = 'average_execution_time 0.125'
-print(name3)
-print(name2, name, name1, name3)
+home_work = '12'
+print(home_work)
+hours = '1.5'
+print(hours)
+course_name = 'Python'
+print(12 / 1.5)
+print(course_name)
+average_execution_time = '8'
+print(average_execution_time)
+print(course_name, home_work, hours, average_execution_time, (12 / 1.5))
