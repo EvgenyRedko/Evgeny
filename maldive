@@ -1,10 +1,5 @@
-home_work = '12'
-print(home_work)
-hours = '1.5'
-print(hours)
+home_work = 12
+hours = 1.5
 course_name = 'Python'
-print(12 / 1.5)
-print(course_name)
-average_execution_time = '8'
-print(average_execution_time)
-print(course_name, home_work, hours, average_execution_time, (12 / 1.5))
+one_task_time = hours / home_work
+print(course_name, home_work, hours, one_task_time)
