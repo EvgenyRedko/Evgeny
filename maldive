@@ -1,0 +1,9 @@
+name = 'Home_Work 12'
+print(name)
+name1 = 'hours 1.5'
+print(name1)
+name2 = 'Python'
+print(name2)
+name3 = 'average_execution_time 0.125'
+print(name3)
+print(name2, name, name1, name3)
